@@ -6,3 +6,6 @@ install Python dependencies with:
 ```shell
 pip3 install -r requirements.txt
 ```
+
+
+![GUI](gui.png)
